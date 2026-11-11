@@ -71,4 +71,3 @@ $('#dropboxConnect').onclick=connectDropbox;$('#syncBtn').onclick=syncDropbox;up
 window.addEventListener('beforeinstallprompt',e=>{e.preventDefault();deferredInstall=e;$('#installBtn').classList.remove('hidden')});$('#installBtn').onclick=async()=>{if(deferredInstall){deferredInstall.prompt();await deferredInstall.userChoice;deferredInstall=null;$('#installBtn').classList.add('hidden')}};
 if('serviceWorker'in navigator){navigator.serviceWorker.register('./sw.js?v=17',{updateViaCache:'none'});let refreshing=false;navigator.serviceWorker.addEventListener('controllerchange',()=>{if(!refreshing){refreshing=true;location.reload()}})}render();
 window.addEventListener('resize',updateViewerHeight);
-
