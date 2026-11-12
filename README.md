@@ -20,6 +20,14 @@ Maak in de Windows-app bij **Agenda → Tablet beheren** een persoonlijke beheer
 
 Nieuwe afspraken, wijzigingen, aanwezigheid en verwijderingen worden bij Google opgeslagen. Windows haalt tabletwijzigingen bij de volgende agendasynchronisatie op. Bij gelijktijdig wijzigen moet een verouderd tabletvenster eerst worden vernieuwd.
 
+## Schrijven met Apple Pencil
+
+Open een nummer, kies eventueel het document en tik op **Aantekenen**. Schrijf met de Apple Pencil op PDF’s, afbeeldingen, TXT-bestanden of de tekst/lyrics. Kies pen, markeerstift, kleur, dikte of gum. De gum verwijdert een hele penstreek; **Ongedaan** en **Opnieuw** werken per gekozen pagina. Met een vinger schuif je door de pagina; **Ook met vinger tekenen** is optioneel.
+
+Aantekeningen worden na elke penstreek automatisch op dit apparaat bewaard, ook offline. Ze blijven staan bij Dropbox-synchronisatie en worden meegenomen in **Back-up exporteren/importeren**. Ze worden niet automatisch naar andere apparaten gesynchroniseerd. Bewaar regelmatig een back-up: het wissen van Safari- of appgegevens verwijdert ook de lokale aantekeningen. De oorspronkelijke PDF wordt niet gewijzigd.
+
+Teksten krijgen vaste pagina’s zodat de penstreken bij draaien of vergroten op dezelfde plek blijven. Een gewijzigd document of gewijzigde tekst krijgt een eigen schrijflaag; bij exact hetzelfde PDF-bestand verschijnt de bestaande laag weer. Documentbestanden zelf moeten bij een back-up apart worden overgezet of via Dropbox opgehaald.
+
 ## Lokaal testen
 
 Voer vanuit deze map uit:
